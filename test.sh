@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Welcome"
 echo $(hostname)
-echo " Jenkins Sample"
+echo "This is  Jenkins Sample"
 echo " Webhook"

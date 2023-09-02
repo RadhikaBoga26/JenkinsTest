@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Welcome"
 echo $(hostname)
-echo " Jenkins"
+echo " Jenkins Sample"
 
